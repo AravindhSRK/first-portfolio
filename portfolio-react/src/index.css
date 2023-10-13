@@ -1,0 +1,39 @@
+
+.contain{
+    
+    width: 300px;
+    border: 3px solid rgb(85, 86, 85);
+    padding: 50px;
+    margin: auto;
+    box-shadow: 5px 10px #4c4c4c;
+  
+  
+}
+
+.imageplace{
+  max-width: 100%; 
+  max-height: 50%; 
+  height: auto; 
+  width: auto; 
+ 
+
+}
+
+.skill-list {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+
+.skill {
+  padding: 2px 12px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 500;
+  border: 2px;
+  background-color: rgb(164, 164, 164) ;
+}
